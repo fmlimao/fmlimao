@@ -4,15 +4,10 @@ Me chamo Leandro Macedo, e tenho 32 anos, 20 deles dedicados a programação web
 
 ## Meus contatos
 
-<a href="https://www.linkedin.com/in/leandro-macedo-51312265/" alt="linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white">
-</a>
-<a href="https://wa.me/5511987391075" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white&link=https://wa.me/5511987391075"/>
-</a>
-<a href="mailto:fmlimao@gmail.com" alt="gmail" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white&link=mailto:fmlimao@gmail.com" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-macedo-51312265/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/5511987391075)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:fmlimao@gmail.com)
+
 
 ## Algumas das minhas skills
 
