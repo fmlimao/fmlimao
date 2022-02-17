@@ -4,30 +4,43 @@ Me chamo Leandro Macedo, e tenho 32 anos, 20 deles dedicados a programação web
 
 ## Meus contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-macedo-51312265/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white)](https://wa.me/5511987391075)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:fmlimao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&labelColor=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/leandro-macedo-51312265/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?&labelColor=25D366&logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5511987391075)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?&labelColor=EA4335&logo=gmail&logoColor=white&style=for-the-badge)](mailto:fmlimao@gmail.com)
 
 
 ## Algumas das minhas skills
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?&style=flat-square&labelColor=777BB4&logo=PHP&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&labelColor=E34F26&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&labelColor=1572B6&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?&style=flat-square&labelColor=7952B3&logo=Bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?&style=flat-square&labelColor=06B6D4&logo=Tailwind%20CSS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat-square&labelColor=F7DF1E&logo=JavaScript&logoColor=333333)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&labelColor=3178C6&logo=TypeScript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?&style=flat-square&labelColor=339933&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?&style=flat-square&labelColor=61DAFB&logo=CSS3&logoColor=333333)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?&style=flat-square&labelColor=007ACC&logo=Visual%20Studio%20Code&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?&style=flat-square&labelColor=000000&logo=PhpStorm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?&style=flat-square&labelColor=000000&logo=DataGrip&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?&style=flat-square&labelColor=179287&logo=GitKraken&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=flat-square&labelColor=FF6C37&logo=Postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?&style=flat-square&labelColor=4000BF&logo=Insomnia&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?&style=flat-square&labelColor=0080FF&logo=DigitalOcean&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-00A95C?&style=flat-square&labelColor=00A95C&logo=Linode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?&style=flat-square&labelColor=181717&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?&style=flat-square&labelColor=FCA121&logo=GitLab&logoColor=white)
+![PHP](https://img.shields.io/badge/Código-PHP-777BB4?logo=PHP&logoColor=777BB4&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/Código-HTML5-E34F26?logo=HTML5&logoColor=E34F26&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/Código-CSS3-1572B6?logo=CSS3&logoColor=1572B6&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Código-JavaScript-F7DF1E?logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/Código-TypeScript-3178C6?logo=TypeScript&logoColor=3178C6&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Código-Node.js-339933?logo=Node.js&logoColor=339933&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-7952B3?logo=Bootstrap&logoColor=7952B3&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=06B6D4&style=for-the-badge)
+![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=CSS3&logoColor=61DAFB&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/Ferramenta-VS%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=007ACC&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/Banco%20de%20Dados-MySQL-4479A1?logo=MySQL&logoColor=4479A1&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/Banco%20de%20Dados-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=4169E1&style=for-the-badge)
+![PhpStorm](https://img.shields.io/badge/Ferramenta-PhpStorm-000000?logo=PhpStorm&logoColor=000000&style=for-the-badge)
+![DataGrip](https://img.shields.io/badge/Ferramenta-DataGrip-000000?logo=DataGrip&logoColor=000000&style=for-the-badge)
+![GitKraken](https://img.shields.io/badge/Ferramenta-GitKraken-179287?logo=GitKraken&logoColor=179287&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Ferramenta-Postman-FF6C37?logo=Postman&logoColor=FF6C37&style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/Ferramenta-Insomnia-4000BF?logo=Insomnia&logoColor=4000BF&style=for-the-badge)
+![DigitalOcean](https://img.shields.io/badge/Servidor-DigitalOcean-0080FF?logo=DigitalOcean&logoColor=0080FF&style=for-the-badge)
+![Linode](https://img.shields.io/badge/Servidor-Linode-00A95C?logo=Linode&logoColor=00A95C&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GIT-GitHub-181717?logo=GitHub&logoColor=181717&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/GIT-GitLab-FCA121?logo=GitLab&logoColor=FCA121&style=for-the-badge)
 
+---
+
+<!-- ![GitLab](https://img.shields.io/badge/GitLab-GIT-blue?logo=GitLab&labelColor=green&style=for-the-badge) -->
+<!-- ![GitLab](https://img.shields.io/badge/GitLab-GIT-blue?logo=GitLab&style=for-the-badge) -->
+
+
+<!-- ?style=plastic&logo=appveyor -->
+<!-- ?style=flat&logo=appveyor -->
+<!-- ?style=flat-square&logo=appveyor -->
+<!-- ?style=for-the-badge&logo=appveyor -->
+<!-- ?style=social&logo=appveyor -->
