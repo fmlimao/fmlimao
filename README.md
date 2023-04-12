@@ -1,6 +1,6 @@
 ## Opa, e aí? 👋
 
-Me chamo Leandro Macedo, e tenho 33 anos, 21 deles dedicados a programação web =)
+Me chamo Leandro Macedo, e tenho 34 anos, 22 deles dedicados a programação web =)
 
 ## Meus contatos
 
